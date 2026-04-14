@@ -1,0 +1,31 @@
+*{
+    background-color: #2A7B9B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color: black;
+    color: azure;
+    font-size: 16px;
+    padding: 10px;
+}
+h1{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: black;
+}
+ul{
+    color: black;
+    font-size: 16px;
+}
+p{
+
+    color: black;
+    font-size: 18px;
+    line-height: 1.6;
+    
+}
+hr{
+    border: none;
+    height: 3px;
+    background-color: black;
+}
